@@ -9,7 +9,8 @@ pairs = [
     ['who are you', ['I am a bot']],
     ['what type of bot are you', ['I am a simplistic chat bot created by Faiaz']],
     ['you are really stupid', ['Good. I appreciate that.']],
-    ['who created you', ['I was created by Faiaz']]
+    ['who created you', ['I was created by Faiaz']],
+    ['What is your name', ['I have no name cause i am a  neglected project']]
 ]
 
 chat = Chat(pairs, reflections)
